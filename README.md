@@ -1,8 +1,6 @@
 # mnist-digit-recognition-deep-learning
 Deep learning project comparing Dense Neural Networks and CNNs for handwritten digit recognition on the MNIST dataset.
 
-![Project Banner](images/project_banner.png)
-
 # Handwritten Digit Recognition with Deep Learning
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
