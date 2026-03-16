@@ -181,3 +181,10 @@ The CNN accurately predicts the majority of test images, demonstrating strong ge
 - Matplotlib
 - Seaborn
 - Scikit-learn
+
+---
+
+## Author
+
+**Matvii Studnytskiy**
+
